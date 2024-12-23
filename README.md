@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 * [New testing frameworks or tools you're learning]
 * [Industry trends you're following]
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juozasxlr&hide=contribs,prs)
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out!
