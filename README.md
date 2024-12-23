@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Badge: Twitter]](your-twitter-profile)
 
 ## ✨ Skills & Expertise
-
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 * **Test Automation:**  [Selenium] [Cypress] [Appium] [Your Tool of Choice]
 * **Programming:** [JavaScript/TypeScript] [Python] [Java]
 * **Methodologies:** [Agile] [Scrum] [TDD/BDD]
